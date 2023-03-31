@@ -4,7 +4,7 @@
 
 - Identify JavaScript `Object`s
 - Access a value stored in an `Object`
-- Learn about JavaScript's Object methods
+- Learn about JavaScript's Object methods.
 
 ## Introduction
 
